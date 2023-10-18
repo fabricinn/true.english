@@ -4,6 +4,8 @@ Muitas vezes, as áreas de ***wilderness*** são protegidas por agências govern
 
 A palavra =="wilderness"== pode variar em significado em diferentes contextos, mas geralmente se refere a áreas naturais não desenvolvidas ou minimamente afetadas pela atividade humana.
 
+---
+# Exemplos
 1. They embarked on a hiking trip into the ==wilderness==, where they camped under the starry sky and explored untouched natural beauty.
 2. The explorer spent months in the Alaskan ==wilderness==, studying wildlife and surviving in extreme conditions.
 3. Camping in the ==wilderness== can be a rewarding experience, allowing you to disconnect from the modern world and connect with nature.

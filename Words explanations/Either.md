@@ -6,30 +6,30 @@
 
 Lembre-se de que o uso de "either" muitas vezes depende do contexto da frase em que é empregado.
 
-1. I can't decide between ==either== of these two dresses.
-2. You can chosse ==either== the red pen or the blue pen.
-3. Do you want tea or coffee, or ==neither== of them?
-4. ==Either== he's very busy, or he's avoinding me.
-5. You can take ==either== the bus or the train to get to the city.
-6. I can meet you ==either== at the restaurant or at the park.
-7. ==Either== you study for the exam now or you'll regret it later.
-8. We can have ==either== pizza or sushi for dinner.
-9. She can speak ==either== French or German fluently.
-10. I'm not sure if I'll go on ==either== Saturday or Sunday.
 ---
 
-# Tradução
+# Exemplos
 
-1. Não consigo decidir entre ==nenhum== dos dois vestidos.
-2. Você pode escolher ==ou== a caneta vermelha ou a caneta azul.
-3. Você quer chá ou café, ou ==nenhum== dos dois?
-4. ==Ou== ele está muito ocupado, ou está me evitando.
-5. Você pode pegar ==ou== o ônibus ou o trem para chegar à cidade.
-6. Posso encontrar você ==ou== no restaurante ou no parque.
-7. ==Ou== você estuda para o exame agora ou se arrependerá depois.
-8. Podemos jantar com pizza ou sushi.
-9. Ela pode falar fluentemente francês ou alemão.
-10. Não tenho certeza ==se== irei no sábado ou no domingo.
+1. I can't decide between ==either== of these two dresses.
+	- Não consigo decidir entre ==nenhum== dos dois vestidos.
+2. You can choose ==either== the red pen or the blue pen.
+	- Você pode escolher ==ou== a caneta vermelha ou a caneta azul.
+3. Do you want tea or coffee, or ==neither== of them?
+	- Você quer chá ou café, ou ==nenhum== dos dois?
+4. ==Either== he's very busy, or he's avoinding me.
+	- ==Ou== ele está muito ocupado, ou está me evitando.
+5. You can take ==either== the bus or the train to get to the city.
+	- Você pode pegar ==ou== o ônibus ou o trem para chegar à cidade.
+6. I can meet you ==either== at the restaurant or at the park.
+	- Posso encontrar você ==ou== no restaurante ou no parque.
+7. ==Either== you study for the exam now or you'll regret it later.
+	- ==Ou== você estuda para o exame agora ou se arrependerá depois.
+8. We can have ==either== pizza or sushi for dinner.
+	- Podemos jantar com pizza ou sushi.
+9. She can speak ==either== French or German fluently.
+	- Ela pode falar fluentemente francês ou alemão.
+10. I'm not sure if I'll go on ==either== Saturday or Sunday.
+	- Não tenho certeza ==se== irei no sábado ou no domingo.
 
 #wordExplanation 
 #either
