@@ -3,7 +3,7 @@
 No contexto, quando descreve o livro *"The Adventures of Tom Sawyer"* como *"lighthearted"*, isso significa que o livro é alegre e descontraído, e que não é uma história muito séria ou pesada. A palavra *"lighthearted"* é frequentemente usada para descrever obras literárias, filmes, músicas ou situações que têm um tom leve e divertido, em oposição a algo mais sério ou sombrio.
 
 ---
-# Exemplos 
+## Exemplos 
 
 1. The comedy show was *lighthearted* and had the audience laughing throughout the entire performance.
 	- O espetáculo de comédia foi leve e fez o público rir durante toda a atuação.

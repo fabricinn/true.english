@@ -14,7 +14,7 @@ A expressão "*right away*" é uma maneira informal de dizer "*imediatamente*" o
 Lembre-se de que *"right away"* é uma expressão informal e é mais adequada para conversas cotidianas, situações informais e comunicação verbal. Em contextos mais formais, é preferível usar *"immediately"* ou *"at once"* para expressar a mesma ideia de imediatismo.
 
 ---
-# Exemplos
+## Exemplos
 
 1. I need that report finished *right away*.
 	- Preciso que aquele relatório seja terminado imediatamente.

@@ -15,7 +15,7 @@
 *"Afford"* é um termo importante quando se trata de finanças pessoais e de tomar decisões sobre gastos. Ele ajuda a expressar o equilíbrio entre o que você pode pagar e o que está além de suas possibilidades financeiras.
 
 --- 
-# Exemplos
+## Exemplos
 
 1. I can't *afford* to buy a new car this year; mine still runs well.
 	- Não posso comprar um carro novo este ano; o meu ainda está funcionando bem.

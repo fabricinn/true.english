@@ -5,7 +5,7 @@ Muitas vezes, as áreas de *"wilderness"* são protegidas por agências governam
 A palavra "*wilderness*" pode variar em significado em diferentes contextos, mas geralmente se refere a áreas naturais não desenvolvidas ou minimamente afetadas pela atividade humana.
 
 ---
-# Exemplos
+## Exemplos
 
 
 1. They embarked on a hiking trip into the *wilderness*, where they camped under the starry sky and explored untouched natural beauty.

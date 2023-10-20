@@ -18,7 +18,7 @@ Nesse contexto, um "*ordinary witness*" é alguém que não é um especialista e
 Em resumo, "*ordinary*" é uma palavra usada para descrever algo comum, normal ou não excepcional em vários contextos, seja para falar sobre pessoas, coisas ou situações.
 
 ---
-# Exemplos
+## Exemplos
 
 1. "The weather today is quite *ordinary* for this time of year."
 	- O clima hoje está bem comum para esta época do ano. 
