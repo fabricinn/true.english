@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ecc009db23a3c365",
+        "id": "8ecf12b4f9178d05",
         "type": "tabs",
         "children": [
           {
-            "id": "afef78a91d4c8edd",
+            "id": "10e83398e5280f98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Similar English words/1. Similar English words.md",
+                "file": "Similar English words/Rob e Steal.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "bfc51bb86579811f",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Similar English words/1. Similar English words.md",
+                "file": "Similar English words/Rob e Steal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Similar English words/1. Similar English words.md",
+                "file": "Similar English words/Rob e Steal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Similar English words/1. Similar English words.md"
+                "file": "Similar English words/Rob e Steal.md"
               }
             }
           }
@@ -146,15 +147,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "afef78a91d4c8edd",
+  "active": "10e83398e5280f98",
   "lastOpenFiles": [
+    "Similar English words/Cheering e Rooting.md",
+    "Similar English words/Rob e Steal.md",
+    "Similar English words/Quit e Stop.md",
+    "Similar English words/Seem e Like.md",
+    "Similar English words/Watch Out e Look out.md",
+    "Similar English words/Trash e Garbage.md",
     "Similar English words/Pretty e Quite.md",
     "Similar English words/1. Similar English words.md",
     "Words explanations/1. Words explanations.md",
-    "Similar English words/Cheering e Rooting.md",
-    "Similar English words/Trash e Garbage.md",
-    "Similar English words/Watch Out e Look out.md",
-    "Similar English words/Seem e Like.md",
     "Words explanations/Hang out.md",
     "Words explanations/Ordinary.md",
     "Words explanations/Right away.md",
