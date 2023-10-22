@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "594a01ab50998064",
+    "type": "split",
+    "children": [
+      {
+        "id": "ecc009db23a3c365",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "afef78a91d4c8edd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Similar English words/1. Similar English words.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "49f88a9b1889624a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8cef406ebcde7d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cfcf10e721268d2e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dc56da2e7b017aea",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "768257282eff951c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bfc51bb86579811f",
+    "type": "split",
+    "children": [
+      {
+        "id": "bdaafee932d46335",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "425b1b27083ea8f5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Similar English words/1. Similar English words.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f2671b719484fdff",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Similar English words/1. Similar English words.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b6c61fb68be3f407",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a534daf1e0048aa0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Similar English words/1. Similar English words.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "afef78a91d4c8edd",
+  "lastOpenFiles": [
+    "Similar English words/Pretty e Quite.md",
+    "Similar English words/1. Similar English words.md",
+    "Words explanations/1. Words explanations.md",
+    "Similar English words/Cheering e Rooting.md",
+    "Similar English words/Trash e Garbage.md",
+    "Similar English words/Watch Out e Look out.md",
+    "Similar English words/Seem e Like.md",
+    "Words explanations/Hang out.md",
+    "Words explanations/Ordinary.md",
+    "Words explanations/Right away.md",
+    "Words explanations/Lighthearted.md",
+    "Similar English words/Look for e Look up.md",
+    "Untitled.md"
+  ]
+}
