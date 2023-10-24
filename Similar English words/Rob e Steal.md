@@ -58,3 +58,6 @@ Em resumo, "*rob*" envolve mais visibilidade e, muitas vezes, ações mais agres
 	- Um hacker pode roubar informações confidenciais de bancos de dados online.
 10. He attempted to *steal* the recipe for the secret sauce.
 	- Ele tentou roubar a receita do molho secreto.
+
+#similarEnglishWords
+#robAndSteal

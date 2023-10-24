@@ -5,18 +5,40 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "Words explanations",
+      "color": {
+        "a": 1,
+        "rgb": 16763945
+      }
+    },
+    {
+      "query": "Similar English Words",
+      "color": {
+        "a": 1,
+        "rgb": 43097
+      }
+    },
+    {
+      "query": "English Grammar",
+      "color": {
+        "a": 1,
+        "rgb": 4079765
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.00472727272727,
-  "lineSizeMultiplier": 1.09781818181818,
-  "collapse-forces": false,
+  "textFadeMultiplier": -1,
+  "nodeSizeMultiplier": 0.748727272727273,
+  "lineSizeMultiplier": 1.70290909090909,
+  "collapse-forces": true,
   "centerStrength": 0.398367346938776,
   "repelStrength": 10.530612244898,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7132754626224427,
+  "scale": 0.5087618855792636,
   "close": true
 }

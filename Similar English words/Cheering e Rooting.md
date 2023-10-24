@@ -64,5 +64,5 @@ Em resumo, "*cheering*" é uma expressão mais geral de apoio e entusiasmo, que 
 10. He's been *rooting* for environmental causes for years and actively participates in conversation efforts.
 	- Ele tem apoiado causas ambientais por anos e participa ativamente de esforços de conservação.
 
-#differenceOfWords
+#similarEnglishWords
 #cheeringAndRooting

@@ -63,5 +63,5 @@ Em resumo, "*pretty*" é geralmente usado para indicar um grau moderado, enquant
 10. I find the topic of history *quite* fascinating.
 	- Acho o tema da história bastante fascinante.
 
-#differenceOfWords 
+#similarEnglishWords
 #prettyAndQuite

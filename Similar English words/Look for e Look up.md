@@ -56,5 +56,5 @@ Portanto, a principal diferença entre as duas expressões está relacionada ao 
 10. Before our trip, we should *look up* the best places to visit in the city.
 	- Antes da nossa viagem, deveríamos pesquisar os melhores lugares para visitar na cidade.
 
-#differenceOfWords 
+#similarEnglishWords
 #lookForAndLookUp

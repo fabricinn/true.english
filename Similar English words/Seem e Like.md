@@ -59,5 +59,5 @@ Em resumo, "*seem*" é usado para expressar impressões ou aparências subjetiva
 10. That book is a literary classic, *like* "Don Quixote".
 	- Esse livro é um clássico literário, assim como "Dom Quixote".
 
-#differenceOfWords 
+#similarEnglishWords
 #seemAndLike

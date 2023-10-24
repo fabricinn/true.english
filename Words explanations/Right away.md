@@ -37,5 +37,5 @@ Lembre-se de que *"right away"* é uma expressão informal e é mais adequada pa
 10. She called her friend *right away* to share the exciting news.
 	- Ela ligou para sua amiga imediatamente para compartilhar a notícia emocionante.
 
-#wordExplanation 
+#wordsExplanations 
 #rightAway

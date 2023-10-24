@@ -60,5 +60,5 @@ Em resumo, a principal diferença entre as duas expressões está na preferênci
 10. *Look out* for obstacles on the trail while biking through the forest.
 	- Cuidado com obstáculos na trilha ao andar de bicicleta pela floresta.
 
-#differenceOfWords 
+#similarEnglishWords
 #watchOutAndLookOut

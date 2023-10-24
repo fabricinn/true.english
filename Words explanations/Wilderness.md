@@ -29,5 +29,5 @@ A palavra "*wilderness*" pode variar em significado em diferentes contextos, mas
 10. Hiking through the *wilderness* offers a sensation of adventure and an opportunity to disconnect from the noise of city life.
 	- As caminhadas na natureza oferecem uma sensação de aventura e uma oportunidade de se desligar do ruído da vida citadina.
 
-#wordExplanation 
+#wordsExplanations 
 #wilderness

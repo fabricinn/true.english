@@ -41,5 +41,5 @@ Em resumo, "*ordinary*" é uma palavra usada para descrever algo comum, normal o
 10. "In an *ordinary* day, I like to take a walk in the park and read a book."
 	- Em um dia comum, gosto de dar uma caminhada no parque e ler um livro.
 
-#wordExplanation 
+#wordsExplanations 
 #ordinary

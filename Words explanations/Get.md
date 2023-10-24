@@ -87,5 +87,5 @@ A escolha de como usar "*get*" depende do contexto. É uma palavra muito versát
 	- She hopes to *get* a chance to travel to Europe someday.
 		- Ela espera ter a oportunidade de viajar para a Europa um dia.
 
-#wordExplanation 
+#wordsExplanations 
 #get 

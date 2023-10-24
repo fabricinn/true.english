@@ -38,5 +38,5 @@
 10. Despite her love for travel, she can't *afford* to go on international trips frequently.
 	- Apesar de seu amor por viagens, ela não pode se dar o luxo de fazer viagens internacionais frequentemente.
 
-#wordExplanation 
+#wordsExplanations 
 #afford

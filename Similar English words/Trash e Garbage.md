@@ -57,5 +57,5 @@ Em resumo, a principal diferença está na abrangência das palavras. "*Trash*" 
 10. He accidentally dropped his phone into the *garbage* bin.
 	- Ele deixou o celular cair acidentalmente na lixeira.
 
-#differenceOfWords 
+#similarEnglishWords
 #trashAndGarbage

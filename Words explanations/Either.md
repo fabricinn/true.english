@@ -31,5 +31,5 @@ Lembre-se de que o uso de "*either*" muitas vezes depende do contexto da frase e
 10. I'm not sure if I'll go on *either* Saturday or Sunday.
 	- Não tenho certeza se irei no sábado ou no domingo.
 
-#wordExplanation 
+#wordsExplanations 
 #either

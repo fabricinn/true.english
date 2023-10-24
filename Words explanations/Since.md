@@ -39,5 +39,5 @@ Lembre-se de que o uso de *"since"* pode variar dependendo do contexto da frase.
 10. *Since* you mentioned it, I'll look into that issue.
 	- Já que você mencionou, vou investigar essa questão.
 
-#wordExplanation 
+#wordsExplanations 
 #since

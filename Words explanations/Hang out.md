@@ -34,5 +34,5 @@ Em resumo, "*hang out*" é usado para descrever momentos sociais descontraídos 
 10. They decided to *hang out* by the pool during the summer vacation.
 	- Eles decidiram passar tempo na piscina durante as férias de verão.
 
-#wordExplanation 
+#wordsExplanations 
 #hangOut

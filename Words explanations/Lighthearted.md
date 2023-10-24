@@ -26,5 +26,5 @@ No contexto, quando descreve o livro *"The Adventures of Tom Sawyer"* como *"lig
 10. Despite the challenges, their *lighthearted* attitude made the project feel less daunting and more manageable.
 	- Apesar dos desafios, a sua atitude alegre fez com que o projeto se tornasse menos assustador e mais fácil de gerir.
 
-#wordExplanation
+#wordsExplanations 
 #lighthearted

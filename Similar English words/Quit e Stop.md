@@ -55,3 +55,6 @@ Em resumo "*quit*" geralmente se refere a parar ou abandonar algo de forma defin
 	- Vou parar no caixa eletrônico antes de irmos para o restaurante.
 10. The music suddenly *stopped*, and everyone turned to look at the stage.
 	- A música parou de repente e todos se viraram para olhar o palco.
+
+#similarEnglishWords
+#quitAndStop
