@@ -12,6 +12,7 @@ Portanto, a principal diferença entre as duas expressões está relacionada ao 
 
 ---
 
+## Exemplos
 ## Look for
 1. I need to *look for* my glasses. I can't find them anywhere.
 	- Preciso procurar meus óculos. Não consigo encontra-los em lugar nenhum.
