@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "bfc51bb86579811f",
@@ -139,14 +138,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "66d14b709dec86a3",
+  "active": "cfcf10e721268d2e",
   "lastOpenFiles": [
-    "Words Explanations/1. Words explanations.md",
+    "Similar English Words/Huge e Enormous.md",
+    "Words Explanations/Starving.md",
     "Words Explanations/Thumb through.md",
+    "Words Explanations/Surround.md",
     "2023-10-26.md",
     "Untitled.canvas",
-    "Words Explanations/Surround.md",
-    "Words Explanations/Starving.md",
+    "Words Explanations/1. Words explanations.md",
     "Similar English Words/Huge e Enormous.md",
     "Similar English Words/Quit e Stop.md",
     "Similar English Words/Look for e Look up.md",
@@ -165,9 +165,6 @@
     "Words Explanations/Hang out.md",
     "Words Explanations/Right away.md",
     "Words Explanations/Since.md",
-    "Words Explanations/Wilderness.md",
-    "English Grammar/Present perfect continuous.md",
-    "English Grammar/Future Continuous.md",
     "English Grammar"
   ]
 }
