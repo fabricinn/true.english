@@ -11,8 +11,12 @@
             "id": "66d14b709dec86a3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Words Explanations/Blissful.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "bfc51bb86579811f",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Words Explanations/Blissful.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Words Explanations/Blissful.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Words Explanations/Blissful.md"
+              }
             }
           }
         ]
@@ -140,11 +149,14 @@
   },
   "active": "66d14b709dec86a3",
   "lastOpenFiles": [
+    "Words Explanations/1. Words explanations.md",
+    "Words Explanations/Blissful.md",
+    "Words Explanations/Blush.md",
+    "Blushed.md",
     "Similar English Words/Shriek e Yell.md",
     "Similar English Words/By, near e close to.md",
     "Similar English Words/1. Similar English words.md",
     "Similar English Words/Huge e Enormous.md",
-    "Words Explanations/1. Words explanations.md",
     "Words Explanations/Scrumptious.md",
     "Words Explanations/Jet lag.md",
     "Words Explanations/Right away.md",
@@ -163,9 +175,6 @@
     "Words Explanations/Ordinary.md",
     "Words Explanations/Hang out.md",
     "Words Explanations/Get.md",
-    "Words Explanations/Either.md",
-    "Words Explanations/Afford.md",
-    "README.md.md",
     "Untitled.canvas",
     "English Grammar"
   ]
