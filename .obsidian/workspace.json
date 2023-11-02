@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8ecf12b4f9178d05",
+        "id": "79f8051a6d3e1a9d",
         "type": "tabs",
         "children": [
           {
-            "id": "66d14b709dec86a3",
+            "id": "46dd199d3e3a749d",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -139,10 +139,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "66d14b709dec86a3",
+  "active": "46dd199d3e3a749d",
   "lastOpenFiles": [
-    "Words Explanations/Amused himself.md",
+    "Words Explanations/Register for.md",
     "Words Explanations/1. Words explanations.md",
+    "Words Explanations/Desire.md",
+    "Words Explanations/Amused himself.md",
     "Similar English Words/Damp, Humid e Moist.md",
     "Similar English Words/1. Similar English words.md",
     "Similar English Words/Inexpensive e Cheap.md",
@@ -165,8 +167,6 @@
     "Similar English Words/Quit e Stop.md",
     "Similar English Words/Pretty e Quite.md",
     "Similar English Words/Look for e Look up.md",
-    "Similar English Words/Cheering e Rooting.md",
-    "Words Explanations/Wilderness.md",
     "Untitled.canvas",
     "English Grammar"
   ]
