@@ -29,22 +29,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cfcf10e721268d2e",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
             "id": "dc56da2e7b017aea",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#englishGrammar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,11 +44,13 @@
             }
           },
           {
-            "id": "768257282eff951c",
+            "id": "8753c120ad9633eb",
             "type": "leaf",
             "state": {
-              "type": "bookmarks",
-              "state": {}
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           }
         ]
@@ -93,18 +85,7 @@
             }
           },
           {
-            "id": "f2671b719484fdff",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "b6c61fb68be3f407",
+            "id": "52b933a9a890266b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -115,7 +96,18 @@
             }
           },
           {
-            "id": "a534daf1e0048aa0",
+            "id": "89cf7a7ba745fe01",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "36344a679cd84fb4",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -133,40 +125,37 @@
     "hiddenItems": {
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
   "active": "46dd199d3e3a749d",
   "lastOpenFiles": [
-    "Similar English Words/1. Similar English words.md",
+    "English Grammar/Adjectives.md",
+    "English Grammar/1. English Grammar.md",
     "Similar English Words/Afraid e Scared.md",
-    "Similar English Words/Pretty e Quite.md",
-    "Words Explanations/Order.md",
+    "English Grammar/Present perfect continuous.md",
+    "English Grammar/Future Continuous.md",
+    "Words Explanations/Runt.md",
     "Words Explanations/1. Words explanations.md",
+    "Words Explanations/Apologize.md",
+    "Similar English Words/Problem e Trouble.md",
+    "Similar English Words/Inexpensive e Cheap.md",
+    "Similar English Words/Pretty e Quite.md",
+    "Similar English Words/Look for e Look up.md",
+    "Similar English Words/1. Similar English words.md",
+    "Words Explanations/Order.md",
     "Words Explanations/Ask.md",
     "Words Explanations/Sign up.md",
     "Words Explanations/Register for.md",
     "Words Explanations/Desire.md",
     "Words Explanations/Amused himself.md",
     "Similar English Words/Damp, Humid e Moist.md",
-    "Similar English Words/Inexpensive e Cheap.md",
     "Words Explanations/Blush.md",
     "Words Explanations/Blissful.md",
     "Untitled.md",
     "Blushed.md",
     "Similar English Words/Shriek e Yell.md",
     "Similar English Words/By, near e close to.md",
-    "Similar English Words/Huge e Enormous.md",
-    "Words Explanations/Scrumptious.md",
-    "Words Explanations/Jet lag.md",
-    "Words Explanations/Right away.md",
-    "Words Explanations/Lighthearted.md",
-    "README.md",
-    "Similar English Words/Watch Out e Look out.md",
-    "Similar English Words/Trash e Garbage.md",
     "Untitled.canvas",
     "English Grammar"
   ]
