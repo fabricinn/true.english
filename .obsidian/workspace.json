@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "46dd199d3e3a749d",
+            "id": "d1fd13513b2dd56f",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -34,7 +34,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#englishGrammar",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +53,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -128,15 +129,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "46dd199d3e3a749d",
+  "active": "d1fd13513b2dd56f",
   "lastOpenFiles": [
+    "Words Explanations/Cheers.md",
+    "Words Explanations/Wilderness.md",
+    "Words Explanations/1. Words explanations.md",
+    "Words Explanations/Took place.md",
+    "Words Explanations/Runt.md",
+    "Words Explanations/Desire.md",
     "English Grammar/Adjectives.md",
     "English Grammar/1. English Grammar.md",
     "Similar English Words/Afraid e Scared.md",
     "English Grammar/Present perfect continuous.md",
     "English Grammar/Future Continuous.md",
-    "Words Explanations/Runt.md",
-    "Words Explanations/1. Words explanations.md",
     "Words Explanations/Apologize.md",
     "Similar English Words/Problem e Trouble.md",
     "Similar English Words/Inexpensive e Cheap.md",
@@ -147,15 +152,11 @@
     "Words Explanations/Ask.md",
     "Words Explanations/Sign up.md",
     "Words Explanations/Register for.md",
-    "Words Explanations/Desire.md",
     "Words Explanations/Amused himself.md",
     "Similar English Words/Damp, Humid e Moist.md",
     "Words Explanations/Blush.md",
     "Words Explanations/Blissful.md",
-    "Untitled.md",
     "Blushed.md",
-    "Similar English Words/Shriek e Yell.md",
-    "Similar English Words/By, near e close to.md",
     "Untitled.canvas",
     "English Grammar"
   ]
