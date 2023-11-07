@@ -11,12 +11,8 @@
             "id": "d1fd13513b2dd56f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Words Explanations/Further.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -79,7 +75,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Words Explanations/Further.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +102,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Words Explanations/Further.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,9 +112,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Words Explanations/Further.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -139,9 +131,10 @@
   },
   "active": "d1fd13513b2dd56f",
   "lastOpenFiles": [
-    "Words Explanations/Either.md",
+    "Words Explanations/Struggle.md",
     "Words Explanations/1. Words explanations.md",
     "Words Explanations/Further.md",
+    "Words Explanations/Either.md",
     "Words Explanations/Raise.md",
     "Words Explanations/Cheers.md",
     "Words Explanations/Wilderness.md",
@@ -164,7 +157,6 @@
     "Words Explanations/Sign up.md",
     "Words Explanations/Register for.md",
     "Words Explanations/Amused himself.md",
-    "Similar English Words/Damp, Humid e Moist.md",
     "Untitled.canvas",
     "English Grammar"
   ]
