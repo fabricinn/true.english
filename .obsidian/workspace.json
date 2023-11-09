@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "79f8051a6d3e1a9d",
+        "id": "b79ae0e009e7147a",
         "type": "tabs",
         "children": [
           {
-            "id": "d1fd13513b2dd56f",
+            "id": "4ab6e1a67056d1b4",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -58,8 +58,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "bfc51bb86579811f",
@@ -129,13 +128,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d1fd13513b2dd56f",
+  "active": "4ab6e1a67056d1b4",
   "lastOpenFiles": [
     "Words Explanations/1. Words explanations.md",
-    "Words Explanations/Tax.md",
-    "Words Explanations/Untitled.md",
-    "Similar English Words/Tax,.md",
+    "Words Explanations/Apart.md",
+    "Words Explanations/Rubbish.md",
+    "Similar Meaning/Book e Reserve.md",
+    "Similar English Words/Problem e Trouble.md",
+    "Similar Meaning/1. Similar Meaning.md",
     "Similar English Words/1. Similar English words.md",
+    "Similar English Words/Cheering e Rooting.md",
+    "Similar English Words/Huge e Enormous.md",
+    "Similar English Words/Afraid e Scared.md",
+    "Similar Meaning",
+    "Words Explanations/Tax.md",
+    "Similar English Words/Tax,.md",
     "README.md",
     "Words Explanations/Lead.md",
     "Words Explanations/Struggle.md",
@@ -149,14 +156,7 @@
     "Words Explanations/Desire.md",
     "English Grammar/Adjectives.md",
     "English Grammar/1. English Grammar.md",
-    "Similar English Words/Afraid e Scared.md",
     "English Grammar/Present perfect continuous.md",
-    "English Grammar/Future Continuous.md",
-    "Words Explanations/Apologize.md",
-    "Similar English Words/Problem e Trouble.md",
-    "Similar English Words/Inexpensive e Cheap.md",
-    "Similar English Words/Pretty e Quite.md",
-    "Similar English Words/Look for e Look up.md",
     "Untitled.canvas",
     "English Grammar"
   ]
