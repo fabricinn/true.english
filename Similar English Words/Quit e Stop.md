@@ -13,6 +13,7 @@ Em resumo "*quit*" geralmente se refere a parar ou abandonar algo de forma defin
 ## Exemplos
 
 ### **Quit**
+
 1. She decided to *quit* her job and start her own business.
 	- Ela decidiu largar o emprego abrir seu próprio negócio.
 2. I *quit* smoking a year ago.
@@ -35,6 +36,7 @@ Em resumo "*quit*" geralmente se refere a parar ou abandonar algo de forma defin
 	- Ela saiu do clube por causa de um desentendimento com os sócios.
 
 ### Stop
+
 1. Can we *stop* for a coffee on our way home?
 	- Podemos parar para tomar um café no caminho para casa?
 2. I need to *stop* and catch my breath; I'm exhausted.

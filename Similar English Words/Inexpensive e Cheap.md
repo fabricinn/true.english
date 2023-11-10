@@ -14,6 +14,7 @@ Em resumo, "*inexpensive*" é uma palavra mais neutra que se refere a algo com p
 ## Exemplos
 
 ### **Inexpensive**
+
 1. This restaurant offers delicious food at an *inexpensive* price.
 	- Este restaurante oferece comida deliciosa a um preço barato.
 2. The hotel provides clean and comfortable rooms at an *inexpensive* rate.
@@ -36,6 +37,7 @@ Em resumo, "*inexpensive*" é uma palavra mais neutra que se refere a algo com p
 	- O curso online é barato e oferece muitas informações valiosas.
 
 ### Cheap
+
 1. I bought a *cheap* umbrella, and it broke after the first use.
 	- Comprei um guarda-chuva barato e quebrou no primeiro uso.
 2. Don't buy those *cheap* shoes; they won't last long.

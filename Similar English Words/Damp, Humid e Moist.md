@@ -17,6 +17,7 @@ No entanto, a percepção desses termos pode variar entre as pessoas, e em algun
 ## Exemplos
 
 ### Damp 
+
 1. After the rain, the ground was *damp* to the touch.
 	- Depois da chuva, o chão estava úmido ao toque.
 2. She placed the *damp* towels on the line to dry.
@@ -39,6 +40,7 @@ No entanto, a percepção desses termos pode variar entre as pessoas, e em algun
 	- A tinta fresca na parede ainda estava úmida.
 
 ### Humid
+
 1. The tropical rainforest is known for its hot and *humid* climate
 	- A floresta tropical é conhecida por seu clima quente e úmido
 2. Summer in this region is incredibly *humid*, making it uncomfortable without air conditioning.
@@ -61,6 +63,7 @@ No entanto, a percepção desses termos pode variar entre as pessoas, e em algun
 	- A tinta nas paredes secou lentamente em condições úmidas.
 
 ### Moist
+
 1. The cake was perfectly *moist* and delicious.
 	- O bolo estava perfeitamente úmido e delicioso.
 2. She used a *moist* cloth to clean the delicate porcelain.

@@ -11,8 +11,12 @@
             "id": "4ab6e1a67056d1b4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -74,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -130,33 +138,33 @@
   },
   "active": "4ab6e1a67056d1b4",
   "lastOpenFiles": [
-    "Words Explanations/1. Words explanations.md",
-    "Words Explanations/Apart.md",
-    "Words Explanations/Rubbish.md",
-    "Similar Meaning/Book e Reserve.md",
-    "Similar English Words/Problem e Trouble.md",
-    "Similar Meaning/1. Similar Meaning.md",
-    "Similar English Words/1. Similar English words.md",
-    "Similar English Words/Cheering e Rooting.md",
-    "Similar English Words/Huge e Enormous.md",
-    "Similar English Words/Afraid e Scared.md",
-    "Similar Meaning",
-    "Words Explanations/Tax.md",
-    "Similar English Words/Tax,.md",
-    "README.md",
-    "Words Explanations/Lead.md",
-    "Words Explanations/Struggle.md",
-    "Words Explanations/Further.md",
-    "Words Explanations/Either.md",
-    "Words Explanations/Raise.md",
-    "Words Explanations/Cheers.md",
     "Words Explanations/Wilderness.md",
     "Words Explanations/Took place.md",
+    "Words Explanations/Thumb through.md",
+    "Words Explanations/Tax.md",
+    "Words Explanations/Surround.md",
+    "Words Explanations/Struggle.md",
+    "Words Explanations/Starving.md",
+    "Words Explanations/Since.md",
+    "Words Explanations/Sign up.md",
+    "Words Explanations/Scrumptious.md",
     "Words Explanations/Runt.md",
-    "Words Explanations/Desire.md",
-    "English Grammar/Adjectives.md",
-    "English Grammar/1. English Grammar.md",
-    "English Grammar/Present perfect continuous.md",
+    "Words Explanations/Rubbish.md",
+    "Words Explanations/Right away.md",
+    "Words Explanations/Register for.md",
+    "Words Explanations/Raise.md",
+    "Words Explanations/Ordinary.md",
+    "Words Explanations/Order.md",
+    "Words Explanations/Lighthearted.md",
+    "Words Explanations/Lead.md",
+    "Words Explanations/Jet lag.md",
+    "Words Explanations/Hire.md",
+    "Words Explanations/Hang out.md",
+    "Words Explanations/Get.md",
+    "Words Explanations/Gather.md",
+    "Words Explanations/Further.md",
+    "Words Explanations/Fare.md",
+    "Similar Meaning",
     "Untitled.canvas",
     "English Grammar"
   ]

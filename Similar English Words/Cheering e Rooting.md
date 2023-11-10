@@ -20,6 +20,7 @@ Em resumo, "*cheering*" é uma expressão mais geral de apoio e entusiasmo, que 
 ## Exemplos
 
 ### Cheering:
+
 1. The crowd was *cheering* loudly as the singer hit a high note.
 	- A multidão estava aplaudindo alto quando o cantor atingiu uma nota alta.
 2. Parents were *cheering* on their children at the school's soccer game.

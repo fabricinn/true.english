@@ -20,6 +20,7 @@ Em resumo, a diferença principal entre "*afraid*" e "*scared*" está na intensi
 ## Exemplos
 
 ### Afraid
+
 1. I'm *afraid* of heights.
 	- Eu tenho medo de altura.
 2. She's *afraid* of public speaking.
@@ -40,6 +41,7 @@ Em resumo, a diferença principal entre "*afraid*" e "*scared*" está na intensi
 	- Não tenho medo de correr riscos.
 10. They're *afraid* of the unknown.
 	- Eles têm medo do desconhecido.
+
 ### Scared
 
 1. I was *scared* by the loud thunderstorm.

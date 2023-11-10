@@ -16,6 +16,7 @@ Em resumo, "*seem*" é usado para expressar impressões ou aparências subjetiva
 ## Exemplos
 
 ### Seem
+
 1. She *seems* tired today.
 	- Ela parece cansada hoje.
 2. It *seems* like a good movie.
@@ -38,6 +39,7 @@ Em resumo, "*seem*" é usado para expressar impressões ou aparências subjetiva
 	- Parece uma ótima ideia. 
 
 ### Like
+
 1. I like extreme sports, *like* skydiving.
 	- Gosto de esportes radicais, como paraquedismo. 
 2. She enjoys classical music, *like* I do.

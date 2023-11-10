@@ -14,7 +14,7 @@
 Em resumo, "*further*" é uma palavra que indica distância, avanço, progresso, ação adicional, aprofundamento ou continuação, dependendo do contexto em que é usada. Se você tiver uma frase específica em mente, pode ser útil fornecê-la para obter uma explicação mais precisa do uso de "*further*" naquele contexto.
 
 ---
-# Exemplos
+## Exemplos
 
 1. We need to investigate this issue _further_.
 	- Precisamos investigar mais essa questão.

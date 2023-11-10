@@ -13,7 +13,9 @@ Portanto, a principal diferença entre as duas expressões está relacionada ao 
 ---
 
 ## Exemplos
-## Look for
+
+### Look for
+
 1. I need to *look for* my glasses. I can't find them anywhere.
 	- Preciso procurar meus óculos. Não consigo encontra-los em lugar nenhum.
 2. She's *looking for* her lost cat in the neighborhood.
@@ -35,7 +37,8 @@ Portanto, a principal diferença entre as duas expressões está relacionada ao 
 10. They're *looking for* a qualified candidate to fill the position.
 	- Eles estão procurando um candidato qualificado para ocupar a posição
 
-## Look up
+### Look up
+
 1. If you don't know the meaning of a word, you can *look it up* in a dictionary.
 	- Se você não sabe o significado de uma palavra, pode procurá-la em um dicionário.
 2. I need to *look up* the address of that new restaurant.

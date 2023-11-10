@@ -1,10 +1,10 @@
-1. **Tax (imposto):** Um "*tax*" é um valor obrigatório que o governo ou uma autoridade governamental cobra dos cidadãos ou empresas para financiar serviços públicos, infraestrutura e outras despesas governamentais. Os impostos são geralmente baseados na renda, na propriedade, no consumo, ou em outras atividades econômicas. Eles não estão diretamente relacionados a serviços específicos prestados ao contribuinte.
+-  **Tax (imposto):** Um "*tax*" é um valor obrigatório que o governo ou uma autoridade governamental cobra dos cidadãos ou empresas para financiar serviços públicos, infraestrutura e outras despesas governamentais. Os impostos são geralmente baseados na renda, na propriedade, no consumo, ou em outras atividades econômicas. Eles não estão diretamente relacionados a serviços específicos prestados ao contribuinte.
 
 Em resumo, "*tax*" é um imposto cobrado pelo governo.
 
 ---
 
-# Exemplos
+## Exemplos
 
 1. The government increased the _tax_ rate for high-income earners.
 	- O governo aumentou a alíquota de imposto para pessoas de alta renda.

@@ -17,6 +17,7 @@ Em resumo, a principal diferença entre as duas expressões está na preferênci
 ## Exemplos
 
 ### Watch out
+
 1. *Watch out* for that car coming towards you!
 	- Cuidado com aquele carro vindo em sua direção!
 2. *Watch out*, the floor is wet, and you might slip.
@@ -39,6 +40,7 @@ Em resumo, a principal diferença entre as duas expressões está na preferênci
 	- Fique atento ao prazo; ele está se aproximando rapidamente.
 
 ## Look out
+
 1. *Look out*, there's a bee on your shoulder!
 	- Cuidado, há uma abelha no seu ombro!
 2. *Look out* for a package delivery around noon.

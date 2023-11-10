@@ -6,7 +6,7 @@ Portanto, "*Cheers*" é uma forma comum de saudação em muitos países de líng
 
 ---
 
-# Exemplos
+## Exemplos
 
 1. The explorers reached the mountain's summit, shared a moment of triumph, and exchanged a victorious "_Cheers_."
 	- Os exploradores alcançaram o cume da montanha, compartilharam um momento de triunfo e trocaram um vitorioso “Felicidades”.

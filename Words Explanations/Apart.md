@@ -1,10 +1,10 @@
 "*Apart*" é uma palavra em inglês que pode ter vários significados, dependendo do contexto em que é usada. Alguns dos significados mais comuns de "apart" incluem:
 
-1. Separado: "They live *apart*" significa que eles vivem separados, em locais diferentes.
-2. Distante: "The two mountains are miles *apart*" significa que as duas montanhas estão a uma grande distância uma da outra.
-3. Em pedaços: "The vase fell and broke *apart*" significa que o vaso caiu e se quebrou em pedaços. 
-4. Além disso: "*Apart* from that, everything is fine" significa que, além disso, tudo está bem.    
-5. Isolado ou solitário: "He felt *apart* from the group" significa que ele se sentia isolado do grupo.    
+1. **Separado:** "They live *apart*" significa que eles vivem separados, em locais diferentes.
+2. **Distante:** "The two mountains are miles *apart*" significa que as duas montanhas estão a uma grande distância uma da outra.
+3. **Em pedaços:** "The vase fell and broke *apart*" significa que o vaso caiu e se quebrou em pedaços. 
+4. **Além disso:** "*Apart* from that, everything is fine" significa que, além disso, tudo está bem.    
+5. **Isolado ou solitário:** "He felt *apart* from the group" significa que ele se sentia isolado do grupo.    
 Lembre-se de que o significado exato de "*apart*" dependerá do contexto em que a palavra é usada, portanto, é importante considerar o contexto para compreender seu significado específico em uma frase ou situação particular.
 
 --- 

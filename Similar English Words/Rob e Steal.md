@@ -16,6 +16,7 @@ Em resumo, "*rob*" envolve mais visibilidade e, muitas vezes, ações mais agres
 ## Exemplos
 
 ### Rob
+
 1. The bank was *robbed* by masked gunmen.
 	- O banco foi assaltado por homens armados mascarados.
 2. He *robbed* a convenience store at gunpoint.
@@ -38,6 +39,7 @@ Em resumo, "*rob*" envolve mais visibilidade e, muitas vezes, ações mais agres
 	- Os ladrões fugiram com uma quantia considerável de dinheiro.
 
 ### Steal
+
 1. She managed to *steal* a glance at his test paper during the exam.
 	- Ela conseguiu dar uma olhada em sua prova durante o exame.
 2. He *stole* some cookies from the kitchen without his mother noticing.

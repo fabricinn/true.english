@@ -14,6 +14,7 @@ Em resumo, a principal diferença está na abrangência das palavras. "*Trash*" 
 ## Exemplos
 
 ### Trash
+
 1. I need to take out the *trash* before it starts to smell.
 	- Preciso levar o lixo para fora antes que comece a cheirar mal.
 2. The park was littered with *trash* after the picnic.
@@ -36,6 +37,7 @@ Em resumo, a principal diferença está na abrangência das palavras. "*Trash*" 
 	- Ela revirou o lixo para encontrar seu brinco perdido.
 
 ### Garbage
+
 1. The kitchen smelled bad because I forgot to take out the *garbage*.
 	- A cozinha estava com mau cheiro porque esqueci de tirar o lixo.
 2. Composting organic *garbage* can help enrich the soil.

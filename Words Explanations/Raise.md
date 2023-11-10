@@ -15,7 +15,7 @@ Portanto, o significado de "*raise*" pode variar dependendo do contexto em que √
 
 ---
 
-# Exemplos
+## Exemplos
 
 1. She decided to _raise_ her voice and speak out against injustice.
 	- Ela decidiu levantar a voz e falar contra a injusti√ßa.

@@ -4,7 +4,7 @@ Em resumo, "*took place*" é uma expressão que ajuda a situar um evento no temp
 
 ---
 
-# Exemplos
+## Exemplos
 
 1. The wedding ceremony _took place_ on a beautiful beach.
 	- A cerimônia de casamento aconteceu em uma linda praia.

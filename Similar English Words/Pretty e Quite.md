@@ -20,6 +20,7 @@ Em resumo, "*pretty*" é geralmente usado para indicar um grau moderado, enquant
 ## Exemplos
 
 ### Pretty
+
 1. She's a *pretty* good cook.
 	- Ela é uma cozinheira bastante boa.
 2. The sunset was *pretty* tonight.
@@ -42,6 +43,7 @@ Em resumo, "*pretty*" é geralmente usado para indicar um grau moderado, enquant
 	- Esse é um livro bastante interessante que você está lendo.
 
 ### Quite
+
 1. It's *quite* cold outside, so wear a warm coat.
 	- Está bastante frio lá fora, então use um casaco quente.
 2. The music was *quite* loud at the concert.
