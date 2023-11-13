@@ -11,12 +11,8 @@
             "id": "4ab6e1a67056d1b4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -62,7 +58,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "bfc51bb86579811f",
@@ -78,7 +75,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +102,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,9 +112,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -138,6 +131,23 @@
   },
   "active": "4ab6e1a67056d1b4",
   "lastOpenFiles": [
+    "mintty.exe.stackdump",
+    "Phrasal Verbs/Drop off.md",
+    "Phrasal Verbs/Stop by.md",
+    "Similar English Words/By, near e close to.md",
+    "Similar Meaning/Book e Reserve.md",
+    "Untitled",
+    "Words Explanations/Fee.md",
+    "Words Explanations/1. Words explanations.md",
+    "Words Explanations/Eager.md",
+    "Untitled.md",
+    "Phrasal Verbs/1. Phrasal Verbs.md",
+    "Similar Meaning/1. Similar Meaning.md",
+    "Words Explanations/Head.md",
+    "Phrasal Verbs",
+    "Words Explanations/Jet lag.md",
+    "Words Explanations/Hire.md",
+    "README.md",
     "Words Explanations/Wilderness.md",
     "Words Explanations/Took place.md",
     "Words Explanations/Thumb through.md",
@@ -149,21 +159,6 @@
     "Words Explanations/Sign up.md",
     "Words Explanations/Scrumptious.md",
     "Words Explanations/Runt.md",
-    "Words Explanations/Rubbish.md",
-    "Words Explanations/Right away.md",
-    "Words Explanations/Register for.md",
-    "Words Explanations/Raise.md",
-    "Words Explanations/Ordinary.md",
-    "Words Explanations/Order.md",
-    "Words Explanations/Lighthearted.md",
-    "Words Explanations/Lead.md",
-    "Words Explanations/Jet lag.md",
-    "Words Explanations/Hire.md",
-    "Words Explanations/Hang out.md",
-    "Words Explanations/Get.md",
-    "Words Explanations/Gather.md",
-    "Words Explanations/Further.md",
-    "Words Explanations/Fare.md",
     "Similar Meaning",
     "Untitled.canvas",
     "English Grammar"
